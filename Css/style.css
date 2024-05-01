@@ -1,5 +1,34 @@
 html{
-    background-color: black;
+    background-color: #6fe6d8;
+
+}
+
+/* Etiqueta propiedad y valor*/
+
+h1{
+
+    color: #d1ec8f;
+    background-color: #00d5d4;
+}
+
+p {
+
+    color: #ecc65f;
+
+}
+
+div{
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+  
+ 
+}
+
+a{
+    background-color: purple;
 
 
 }
