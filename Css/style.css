@@ -16,7 +16,7 @@ body {
     padding: 20px 10px;
     padding: 30px;
     margin: 10px;
-
+    box-sizing: content-box;
 }
 .caja2 {
     Color: black    ;
