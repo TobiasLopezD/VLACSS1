@@ -1,0 +1,55 @@
+
+/* Selector universal, reiniciando los valores del navegador*/
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+html{
+    background-color: white;
+
+
+}
+
+body{
+
+    background-color: #abffbc; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fffaf2;
+    width: 1000px;
+    height: 1000px;
+    margin: 10px auto;
+}
+
+
+header{
+
+    background-color: #55ffff;
+    height: 100px
+
+}
+
+nav{
+
+    background-color: #0f6302;
+    height: 200px
+
+}
+
+
+main{
+
+    background-color: #ffbef4;
+    height: 550px
+
+}
+
+footer{
+
+    background-color: #ba465f;
+    height: 150px
+
+}
