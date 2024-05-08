@@ -23,7 +23,7 @@ body{
     height: 1000px;
     margin: 10px auto;
 }
-
+ /* Inicio header */
 
 header{
 
@@ -31,15 +31,18 @@ header{
     height: 100px
 
 }
+  /* Fin header */
 
+ /* Inicio nav */
 nav{
 
     background-color: #0f6302;
     height: 200px
 
 }
+  /* Fin nav */
 
-
+ /* Inicio main */
 main{
 
     background-color: #ffbef4;
@@ -47,9 +50,52 @@ main{
 
 }
 
-footer{
 
+article {
+    width: 300px;
+    background-color: slateblue;
+    padding: 1em;
+    margin: 0 auto;
+    height: 300px;
+    text-align: center;
+    display: inline-block;
+}
+
+
+
+
+img{
+    width: 90%;
+    margin: 0 auto;
+    border: 3px dashed white;
+    
+}
+h2 {
+    text-align: center;
+    width: 90%;
+    color: white;
+    border: 1px dashed black;
+    padding-bottom: 3px;
+    margin-bottom: 5px;
+
+}
+
+.uno {
+    float: left;
+
+}
+
+.dos {
+    float: left;
+
+}
+
+    /* Fin main */
+    /* Inicio Footer */
+footer{
+    clear: both;
     background-color: #ba465f;
     height: 150px
 
 }
+  /* Fin Footer */
